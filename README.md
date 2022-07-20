@@ -1,6 +1,3 @@
-# World_Weather_Analysis
-
-
 <!DOCTYPE html>
 <meta charset="utf-8">
 <head>
